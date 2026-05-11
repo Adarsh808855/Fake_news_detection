@@ -10,7 +10,7 @@ The dataset files are hosted on **Google Drive** due to GitHub's 25MB file size 
 
 ### 📥 Download Dataset
 
-**[Click Here to Download Dataset]([https://drive.google.com/drive/folders/YOUR_GOOGLE_DRIVE_FOLDER_ID](https://drive.google.com/drive/folders/10LAc0GBmU0-upfUVZnozdDOeelQbJmKz?usp=sharing))**
+**[Click Here to Download Dataset](https://drive.google.com/drive/folders/10LAc0GBmU0-upfUVZnozdDOeelQbJmKz?usp=sharing)**
 
 **Dataset Files:**
 - `True.csv` - Real news articles (labeled as authentic)
